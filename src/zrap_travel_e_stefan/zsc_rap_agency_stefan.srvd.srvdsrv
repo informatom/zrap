@@ -1,0 +1,5 @@
+@EndUserText.label: 'ZSC_RAP_AGENCY_STEFAN'
+@OData.schema.name: 'ZAGENCYCDS_SRV'
+define service ZSC_RAP_AGENCY_STEFAN {
+ expose ZRAP_STEFANZ_TRAVEL_AGENCY_ES5; 
+ } 
